@@ -1,0 +1,10 @@
+[user]
+	email = ejonsson@palantir.com
+	name = Erik Jonsson
+[merge]
+	tool = kdiff3
+	renameLimit = 1000
+[mergetool "kdiff3"]
+	path = /Applications/kdiff3.app/Contents/MacOS/kdiff3
+[pull]
+	rebase = true
